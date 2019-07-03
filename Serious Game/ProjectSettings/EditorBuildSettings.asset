@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MapScenes/ZoneA.unity
+    guid: f66aa8fca0b6e2a45ba7898927f0deee
+  - enabled: 1
+    path: Assets/Scenes/MapScenes/ZoneB.unity
+    guid: 6dfec3077a98ebb4e8cc43c5f222b002
+  - enabled: 1
+    path: Assets/Scenes/MapScenes/ZoneC.unity
+    guid: 1011d0ac5fb68e74b9e528d657bdc837
+  - enabled: 1
+    path: Assets/Scenes/MapScenes/ZoneD.unity
+    guid: 9774078334ca0be43865c9c8dba6e046
+  - enabled: 1
+    path: Assets/Scenes/InPlaces/InZonaA/InFabrica.unity
+    guid: 638a1aeabfbf7954db2a84cb5adb4b82
+  - enabled: 1
+    path: Assets/Scenes/InPlaces/InZonaA/InMina.unity
+    guid: 2278645f499ecc34eb3c45588668438d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 74ca4092ec5bd7a46961b4fc4ebdd646
+  - enabled: 1
+    path: Assets/Scenes/FinalGame.unity
+    guid: b2fec9f1fca9b7241a562117a76b26c9
+  m_configObjects: {}
